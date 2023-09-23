@@ -11,6 +11,11 @@ This is a <sub>subscript<sub> text
 
 > Text this is a quote
 
+| Syntax | Test Table |
+| ---------- | ---------- |
+| Header | Title |
+| This is a paragraph in this table | This is text for the table |
+
 
 ![smileyface](smileyface.png)
 
@@ -39,6 +44,7 @@ happy
     "age": 15
 }
 ```
+----------------------------------------------
 
 [^1]: This be footnote
 
@@ -51,3 +57,5 @@ These emojis are great! :sleeping: :sunglasses: :no_mouth: :heart: :musical_note
 Please give us :chocolate_bar:
 
 Thank you :relieved:
+
+`print("Bye")`
