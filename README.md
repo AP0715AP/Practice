@@ -28,6 +28,10 @@ This is a <sub>subscript<sub> text
 - a 
 - list
 
+x^2^
+
+<mark>Highlighted Text<mark>
+
 happy
 : feeling or showing pleasure or contentment.
 
