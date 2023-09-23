@@ -11,11 +11,9 @@ This is a <sub>subscript<sub> text
 
 > Text this is a quote
 
-rgb(9, 105, 218)
 
+![smileyface](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe0%2FSNice.svg%2F220px-SNice.svg.png&tbnid=z0tHEGPUxWsv5M&vet=12ahUKEwjw1bCa_r-BAxXpBkQIHW-JD-AQMygEegUIARCAAQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSmiley&docid=EB-7l6d3ePZ1CM&w=220&h=220&itg=1&q=smiley%20face&ved=2ahUKEwjw1bCa_r-BAxXpBkQIHW-JD-AQMygEegUIARCAAQ)
 
-
-/Downloads/smileyface.png
 
 - This
 - is 
