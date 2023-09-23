@@ -21,8 +21,6 @@ This is a <sub>subscript<sub> text
 - a 
 - list
 
-I needs to highlight these ==very important words==.
-
 happy
 : feeling or showing pleasure or contentment.
 
@@ -47,3 +45,7 @@ happy
 - [x] Wake up
 - [x] Eat
 - [] Go to School
+
+These emojis are great! :sleeping: :sunglasses: :relieved: :no_mouth: :heart: :musical_note: :speak_no_evil: :dog2: :trollface:
+
+Please give us :chocolate_bar:
