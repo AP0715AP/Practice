@@ -46,6 +46,8 @@ happy
 - [x] Eat
 - [] Go to School
 
-These emojis are great! :sleeping: :sunglasses: :relieved: :no_mouth: :heart: :musical_note: :speak_no_evil: :dog2: :trollface:
+These emojis are great! :sleeping: :sunglasses: :no_mouth: :heart: :musical_note: :speak_no_evil: :dog2: :trollface:
 
 Please give us :chocolate_bar:
+
+Thank you :relieved:
