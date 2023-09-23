@@ -19,7 +19,7 @@ This is a <sub>subscript<sub> text
 ### My Great Heading {#1234567}
 
 
-![smileyface](/Downloads/images/smileyface.png)
+![smileyface](image.png)
 
 [YouTube](https://www.youtube.com)
 
