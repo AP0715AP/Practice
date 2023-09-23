@@ -33,3 +33,17 @@ happy
 1. list
 
 @AP0715AP :+1: This looks great!
+
+```
+{
+    "firstName": Bill
+    "lastName": Bob
+    "age": 15
+}
+```
+
+[^1]: This be footnote
+
+- [x] Wake up
+- [x] Eat
+- [] Go to School
