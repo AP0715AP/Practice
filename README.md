@@ -16,6 +16,8 @@ This is a <sub>subscript<sub> text
 | Header | Title |
 | This is a paragraph in this table | This is text for the table |
 
+### My Great Heading {#1234567}
+
 
 ![smileyface](smileyface.png)
 
